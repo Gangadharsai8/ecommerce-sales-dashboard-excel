@@ -38,7 +38,7 @@ This project simulates a real-world business analytics task: taking raw transact
 
 ## 🚀 How to Use
 
-1. Download 'ecommerce_sales_dataset.xlsx' from this repository
+1. Download ecommerce_sales_dataset.xlsx from this repository
 2. Open in Excel (2016 or later recommended for full PivotChart support)
 3. Explore the PivotTables — filters can be adjusted to slice the data differently
 4. Review the KPI dashboard tab for a summary view
